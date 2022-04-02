@@ -13,6 +13,8 @@ Caso encontre algum erro informe pelo discord </iOff>#2802, para o mesmo ser res
 
 **Funções:**
 
-```- Script de Drift (Automático);
+```
+- Script de Drift (Automático);
 - Handling personalizável;
-- Otimização 100%```
+- Otimização 100%
+```
